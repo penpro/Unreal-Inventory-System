@@ -27,11 +27,11 @@ https://youtu.be/GgajurOZ1is
 
 Most of the related assets are int he survivalsystem folder and inventorysystem folder
 The following is a list of assets that are used/modified from the base third person project:
-Project settings - added "interactable" trace type
-Fab - Burlap sack from fab
-InventorySystem Folder Contents
-SurvivalSystem Folder Contents
-ThirdPerson->Blueprints->ThirdPersonCharacter
+-Project settings - added "interactable" trace type
+-Fab - Burlap sack from fab
+-InventorySystem Folder Contents
+-SurvivalSystem Folder Contents
+-ThirdPerson->Blueprints->ThirdPersonCharacter
 
 Here's a project walkthrough video:
 
