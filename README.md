@@ -11,9 +11,24 @@ https://www.youtube.com/playlist?list=PL4G2bSPE_8umjCYXbq0v5IoV-Wi_WAxC3
 This project assumes you already have github desktop, unreal engine 5.5, and github lfh installed and congiured for use.
 
 Basic setup:
-Clone this repo to your local machine with unreal engine installed
-Open a new third person map in unreal engine: note the project name, for instance "MyProject", you will need to delete this later.
-Copy the entirety of the project folder from the git clone
-Paste this content into the blank third person project you just created, then delete the .uproject file with the name noted above, for isntance "MyProject.uproject"
-To refresh the projects list in the epic games launched you may need to click to another tab (news, samples, fab, etc) and then click back into "Library" and you should see the project "Inventory"
+ - Clone this repo to your local machine with unreal engine installed
+ - Open a new third person map in unreal engine: note the project name, for instance "MyProject", you will need to delete this later.
+ - Copy the entirety of the project folder from the git clone
+ - Paste this content into the blank third person project you just created, then delete the .uproject file with the name noted above, for isntance "MyProject.uproject"
+ - To refresh the projects list in the epic games launched you may need to click to another tab (news, samples, fab, etc) and then click back into "Library" and you should see the project "Inventory"
 
+I made a video to step through the cloning process that I think works.
+
+https://youtu.be/GgajurOZ1is
+
+Most of the related assets are int he survivalsystem folder and inventorysystem folder
+The following is a list of assets that are used/modified from the base third person project:
+- Project settings - added "interactable" trace type
+- Fab - Burlap sack from fab
+- InventorySystem Folder Contents
+- SurvivalSystem Folder Contents
+- ThirdPerson->Blueprints->ThirdPersonCharacter
+
+Here's a project walkthrough video:
+
+https://youtu.be/qMSO8NIYiwY
